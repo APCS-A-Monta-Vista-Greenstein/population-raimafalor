@@ -7,8 +7,8 @@ import java.util.Scanner;
  *
  * Requires FileUtils and Prompt classes.
  *
- * @author
- * @since
+ * @author Raima Falor
+ * @since January 24 2023
  */
 public class Population {
 
